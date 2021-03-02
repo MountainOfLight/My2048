@@ -1,0 +1,29 @@
+﻿生成启动时间为 2018/12/23 12:10:16。
+     1>项目“D:\编程\C++\My2048\My2048\My2048\My2048.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\My2048.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\My2048.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GUIsettings.cpp MainFrm.cpp My2048.cpp My2048Doc.cpp My2048View.cpp
+         GUIsettings.cpp
+         MainFrm.cpp
+         My2048.cpp
+         My2048Doc.cpp
+         My2048View.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0804" /IRelease\ /nologo /fo"Release\My2048.res" My2048.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\编程\C++\My2048\My2048\Release\My2048.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\编程\C++\My2048\My2048\Release\My2048.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\编程\C++\My2048\My2048\Release\My2048.lib" /MACHINE:X86 /SAFESEH Release\My2048.res
+         Release\GUIsettings.obj
+         Release\MainFrm.obj
+         Release\My2048.obj
+         Release\My2048Doc.obj
+         Release\My2048View.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         My2048.vcxproj -> D:\编程\C++\My2048\My2048\Release\My2048.exe
+     1>已完成生成项目“D:\编程\C++\My2048\My2048\My2048\My2048.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.88
